@@ -16,10 +16,11 @@
 }
 
 .count {
-  font-size: 80px;
+  font-size: 40px;
   font-family: 'Roboto';
   color: #c20a72;
   margin-top: 8px;
+  font-weight: bold;
   margin-bottom: 20px;
 }
 
