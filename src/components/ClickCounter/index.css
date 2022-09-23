@@ -23,6 +23,16 @@
   font-weight: bold;
   margin-bottom: 20px;
 }
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 50px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .paragraph {
+    font-size: 20px;
+  }
+}
 
 .button {
   font-size: 16px;

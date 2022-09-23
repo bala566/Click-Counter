@@ -17,7 +17,8 @@ class ClickCounter extends Component {
     return (
       <div className="container">
         <h1 className="heading">
-          The Button has been clicked <span className="count">{count} </span>
+          The Button has been clicked <br />
+          <span className="count">{count} </span>
           times.
         </h1>
         <p className="paragraph">Click the button to increase the count!</p>
